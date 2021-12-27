@@ -301,3 +301,4 @@ tar -xvf secret.tar.gz
 ==========
 26. How many files were in the archive.  What were their names?  Write out your answers below.
 ----------
+tar: Child returned status 1
